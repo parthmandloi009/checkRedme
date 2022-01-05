@@ -48,7 +48,7 @@ Clone the project
 
 ```bash
 
-git clone https://github.com/deqodepratik/github-assignment.git
+git clone https://github.com//github-assignment.git
 
 ```
 
